@@ -36,19 +36,26 @@
 6. (github.com) 깃허브가서 다시 확인
 
    - `Settings > Pages > GitHub Pages`
-
      - 안나온다면?!
-
        1. Repository 이름이 제대로 되었는가?
-
           - 제 username은 `nwith`
           - `nwith.github.io`
-
        2. `index.html`이 가장 최상단에 있는가?
 
-          
+---
 
-   
+## GitHub Public Profile
+
+1. (github.com) New Repository
+2. (github.com) 본인의 username으로 된 Repository 생성
+   - 체크박스 `Add a README file` 체크!
+3. `github.com/{username}`
+   - https://github.com/nwith
+   - 
+
+
+
+
 
 
 
