@@ -51,7 +51,23 @@
    - 체크박스 `Add a README file` 체크!
 3. `github.com/{username}`
    - https://github.com/nwith
-   - 
+
+
+
+---
+
+
+
+1. CLI
+   - ls, cd
+2. Git
+   - git status, add, commit
+3. Markdown
+4. Git Remote
+   - git remote add, git push, git pull, git clone
+5. GitHub Pages
+
+
 
 
 
